@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Ryzen 5 5600X",
+    "description": "CPU AMD Ryzen 5 5600X",
+    "price": 55,
+    "thumbnail": "imagen1.jpg",
+    "code": "R53600X",
+    "stock": 8
+  }
+]
